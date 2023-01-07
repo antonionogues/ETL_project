@@ -4,7 +4,7 @@
 
 <p align="center">
 
-![imagen_readme.jpeg](.\images\etl.png)
+![imagen_readme.jpeg](./images/etl.png)
 
 </p>
 
