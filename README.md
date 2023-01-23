@@ -53,10 +53,6 @@ The database that contains information about Airbnb.
 
 
 
-- html: Notebook exported as html files.
-
-
-
 - notebooks: Notebooks of the project.
 
 ## Author
